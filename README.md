@@ -1,8 +1,6 @@
 # Group Project 2 - ns_21482_7
 
 
-# Tableau Visualizations
-
 **Team Name and Members:**
 
 Team Name: ns_21482_7.   
